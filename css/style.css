@@ -76,6 +76,16 @@
     position: relative;
     z-index: -10;   
   }
+  .carousel-caption h3{
+    font-size: 50px;
+    text-transform: uppercase;
+  }
+  .carousel-control.right{
+    background-image: none;
+  }
+  .carousel-control.left{
+    background-image: none;
+  }
   
   button{
     border-radius: 5px;
@@ -119,20 +129,19 @@
   font-style: italic;
   font-weight: 300;
   font-size: 18px;
-  line-height: 215.7%;
   text-align: center;
   }
 
 /* SPECIAL OFFR BEGINNING */
 
-/* .specialoffer{
+.specialoffer{
     background-color:#D9D6D6;
     background-size: cover;
     height: 636px;
-    position: absolute;
+    /* position: absolute; */
     overflow-x: hidden;
     
-} */
+} 
 .card{
 margin: 30px;
 border: hidden;
