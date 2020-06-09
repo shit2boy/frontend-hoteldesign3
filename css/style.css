@@ -1,4 +1,56 @@
 
+/* SPECIAL OFFR BEGINNING */
+
+.specialoffer{
+    background-color:#D9D6D6;
+    background-size: cover;
+    height: 636px;
+    position: absolute;
+    overflow-x: hidden;
+    
+}
+.card{
+margin: 30px;
+border: hidden;
+
+}
+.card-text{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+color: #444444;
+}
+
+.card-title{
+font-family: Roboto;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+color: #333333;
+}
+
+.card-body{
+    background-color:#D9D6D6;
+}
+.card-group{
+    padding: 30px;
+}
+.card-head{
+font-family: Roboto;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+color: #333333;
+margin: 10px;
+margin-right: 20px;
+text-align: left;
+}
+
+/* SPECIAL OFFER END */
+
 .dealavailable p{
     font-size: 14px;
     color: #333333;
