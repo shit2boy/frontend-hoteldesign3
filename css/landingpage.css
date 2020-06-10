@@ -1,3 +1,6 @@
+html,body{
+    height: 100%
+}
 /* Header> NAv */
 .landingpage-header-logo {
     font-family: 'Roboto' sans-serif;
@@ -78,7 +81,16 @@
   }
   .carousel-caption h3{
     font-size: 50px;
+      top :250px;
+      font-family: Roboto;
+font-style: normal;
     text-transform: uppercase;
+  }
+.carousel-caption h5{
+    font-size: 30px;
+    top :250px;
+        font-family: Roboto;
+font-style: normal;
   }
   .carousel-control.right{
     background-image: none;
