@@ -79,18 +79,20 @@ html,body{
     position: relative;
     z-index: -10;   
   }
+.carousel-caption{
+    top :290px;
+    bottom : auto
+}
   .carousel-caption h3{
     font-size: 50px;
-      top :250px;
-      font-family: Roboto;
-font-style: normal;
+    font-family: Roboto;
+    font-style: normal;
     text-transform: uppercase;
   }
 .carousel-caption h5{
     font-size: 30px;
-    top :290px;
-        font-family: Roboto;
-font-style: normal;
+    font-family: Roboto;
+    font-style: normal;
   }
   .carousel-control.right{
     background-image: none;
